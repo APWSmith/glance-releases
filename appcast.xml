@@ -3,6 +3,19 @@
     <channel>
         <title>Glance</title>
         <item>
+            <title>3.7</title>
+            <pubDate>Mon, 02 Nov 2026 00:45:25 -0700</pubDate>
+            <sparkle:version>28</sparkle:version>
+            <sparkle:shortVersionString>3.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<ul>
+  <li>Fixed the menu bar menu sitting in empty space after its new items were read.</li>
+</ul>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/APWSmith/glance-releases/main/Glance-3.7.zip" length="2728360" type="application/octet-stream" sparkle:edSignature="I0lERyYYIzSV3iK3g2kOQx15gdyr07G659dT0OzbEy6odkR0ALrJbslYH7vm2544vVWXbKBwex3gqwydtc+vDg=="/>
+        </item>
+        <item>
             <title>3.6</title>
             <pubDate>Sun, 01 Nov 2026 11:31:45 -0700</pubDate>
             <sparkle:version>27</sparkle:version>
